@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 0b60b0518e3db3345ac05c841c899a43
+timeCreated: 1516575594
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: b_arm_00
+    100002: b_arm_01
+    100004: b_arm_02
+    100006: b_arm_03
+    100008: b_arm_04
+    100010: b_arm_05
+    100012: b_B_leg_00
+    100014: b_B_leg_01
+    100016: b_B_leg_02
+    100018: b_B_leg_03
+    100020: b_B_leg_04
+    100022: b_body
+    100024: b_L_leg_00
+    100026: b_L_leg_01
+    100028: b_L_leg_02
+    100030: b_L_leg_03
+    100032: b_L_leg_04
+    100034: b_leg_00
+    100036: b_leg_01
+    100038: b_leg_02
+    100040: b_leg_03
+    100042: b_leg_04
+    100044: b_R_arm_00
+    100046: b_R_arm_01
+    100048: b_R_arm_02
+    100050: b_R_arm_03
+    100052: b_R_arm_04
+    100054: b_R_arm_05
+    100056: b_root
+    100058: c_leg_0
+    100060: c_leg_01
+    100062: c_leg_01_00
+    100064: c_leg_01_01
+    100066: c_leg_02_00
+    100068: c_leg_02_01
+    100070: D_noise
+    100072: D_root
+    100074: IK_arm_L
+    100076: IK_arm_R
+    100078: IK_leg
+    100080: IK_leg_01
+    100082: IK_leg_02
+    100084: //RootNode
+    100086: weldingbot
+    400000: b_arm_00
+    400002: b_arm_01
+    400004: b_arm_02
+    400006: b_arm_03
+    400008: b_arm_04
+    400010: b_arm_05
+    400012: b_B_leg_00
+    400014: b_B_leg_01
+    400016: b_B_leg_02
+    400018: b_B_leg_03
+    400020: b_B_leg_04
+    400022: b_body
+    400024: b_L_leg_00
+    400026: b_L_leg_01
+    400028: b_L_leg_02
+    400030: b_L_leg_03
+    400032: b_L_leg_04
+    400034: b_leg_00
+    400036: b_leg_01
+    400038: b_leg_02
+    400040: b_leg_03
+    400042: b_leg_04
+    400044: b_R_arm_00
+    400046: b_R_arm_01
+    400048: b_R_arm_02
+    400050: b_R_arm_03
+    400052: b_R_arm_04
+    400054: b_R_arm_05
+    400056: b_root
+    400058: c_leg_0
+    400060: c_leg_01
+    400062: c_leg_01_00
+    400064: c_leg_01_01
+    400066: c_leg_02_00
+    400068: c_leg_02_01
+    400070: D_noise
+    400072: D_root
+    400074: IK_arm_L
+    400076: IK_arm_R
+    400078: IK_leg
+    400080: IK_leg_01
+    400082: IK_leg_02
+    400084: //RootNode
+    400086: weldingbot
+    2100000: highpoly
+    4300000: weldingbot
+    7400000: idle_welding
+    9500000: //RootNode
+    13700000: weldingbot
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle_welding
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

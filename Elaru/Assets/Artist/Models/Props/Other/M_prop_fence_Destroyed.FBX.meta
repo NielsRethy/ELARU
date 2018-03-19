@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 36ca9f88e12f5f8459c5f7e5c86046e6
+timeCreated: 1513003664
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: M_Fence_Debris_00
+    100002: M_Fence_Debris_001
+    100004: M_Fence_Debris_002
+    100006: M_Fence_Debris_003
+    100008: M_Fence_Debris_004
+    100010: M_Fence_Debris_005
+    100012: M_Fence_Debris_006
+    100014: M_Fence_Debris_007
+    100016: M_Fence_Debris_008
+    100018: M_Fence_Debris_009
+    100020: M_Fence_Debris_01
+    100022: M_Fence_Debris_02
+    100024: M_Fence_Debris_03
+    100026: M_Fence_Debris_04
+    100028: //RootNode
+    100030: M_Prop_Fence_Destroyed(Static)
+    400000: M_Fence_Debris_00
+    400002: M_Fence_Debris_001
+    400004: M_Fence_Debris_002
+    400006: M_Fence_Debris_003
+    400008: M_Fence_Debris_004
+    400010: M_Fence_Debris_005
+    400012: M_Fence_Debris_006
+    400014: M_Fence_Debris_007
+    400016: M_Fence_Debris_008
+    400018: M_Fence_Debris_009
+    400020: M_Fence_Debris_01
+    400022: M_Fence_Debris_02
+    400024: M_Fence_Debris_03
+    400026: M_Fence_Debris_04
+    400028: //RootNode
+    400030: M_Prop_Fence_Destroyed(Static)
+    2300000: M_Fence_Debris_00
+    2300002: M_Fence_Debris_001
+    2300004: M_Fence_Debris_002
+    2300006: M_Fence_Debris_003
+    2300008: M_Fence_Debris_004
+    2300010: M_Fence_Debris_005
+    2300012: M_Fence_Debris_006
+    2300014: M_Fence_Debris_007
+    2300016: M_Fence_Debris_008
+    2300018: M_Fence_Debris_009
+    2300020: M_Fence_Debris_01
+    2300022: M_Fence_Debris_02
+    2300024: M_Fence_Debris_03
+    2300026: M_Fence_Debris_04
+    2300028: M_Prop_Fence_Destroyed(Static)
+    3300000: M_Fence_Debris_00
+    3300002: M_Fence_Debris_001
+    3300004: M_Fence_Debris_002
+    3300006: M_Fence_Debris_003
+    3300008: M_Fence_Debris_004
+    3300010: M_Fence_Debris_005
+    3300012: M_Fence_Debris_006
+    3300014: M_Fence_Debris_007
+    3300016: M_Fence_Debris_008
+    3300018: M_Fence_Debris_009
+    3300020: M_Fence_Debris_01
+    3300022: M_Fence_Debris_02
+    3300024: M_Fence_Debris_03
+    3300026: M_Fence_Debris_04
+    3300028: M_Prop_Fence_Destroyed(Static)
+    4300000: M_Prop_Fence_Destroyed(Static)
+    4300002: M_Fence_Debris_00
+    4300004: M_Fence_Debris_01
+    4300006: M_Fence_Debris_02
+    4300008: M_Fence_Debris_03
+    4300010: M_Fence_Debris_04
+    4300012: M_Fence_Debris_001
+    4300014: M_Fence_Debris_002
+    4300016: M_Fence_Debris_003
+    4300018: M_Fence_Debris_004
+    4300020: M_Fence_Debris_005
+    4300022: M_Fence_Debris_006
+    4300024: M_Fence_Debris_007
+    4300026: M_Fence_Debris_008
+    4300028: M_Fence_Debris_009
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 8437214528e5b3640973d783dd0537df, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

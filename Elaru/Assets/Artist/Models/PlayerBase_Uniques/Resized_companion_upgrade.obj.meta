@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: e63b478dfffdfac4f887d6b3ea8b362d
+timeCreated: 1512643882
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone005
+    100010: Bone006
+    100012: Bone007
+    100014: Bone010
+    100016: Bone011
+    100018: Bone012
+    100020: Bone013
+    100022: Box001
+    100024: Box016
+    100026: Box017
+    100028: Box018
+    100030: cables
+    100032: Capsule001
+    100034: ChamferBox001
+    100036: Circle004
+    100038: Cylinder018
+    100040: Line003
+    100042: Object001
+    100044: //RootNode
+    100046: robot
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone005
+    400010: Bone006
+    400012: Bone007
+    400014: Bone010
+    400016: Bone011
+    400018: Bone012
+    400020: Bone013
+    400022: Box001
+    400024: Box016
+    400026: Box017
+    400028: Box018
+    400030: cables
+    400032: Capsule001
+    400034: ChamferBox001
+    400036: Circle004
+    400038: Cylinder018
+    400040: Line003
+    400042: Object001
+    400044: //RootNode
+    400046: robot
+    2300000: Bone001
+    2300002: Bone002
+    2300004: Bone003
+    2300006: Bone004
+    2300008: Bone005
+    2300010: Bone006
+    2300012: Bone007
+    2300014: Bone010
+    2300016: Bone011
+    2300018: Bone012
+    2300020: Bone013
+    2300022: Box001
+    2300024: Box016
+    2300026: Box017
+    2300028: Box018
+    2300030: cables
+    2300032: Capsule001
+    2300034: ChamferBox001
+    2300036: Circle004
+    2300038: Cylinder018
+    2300040: Line003
+    2300042: Object001
+    2300044: robot
+    3300000: Bone001
+    3300002: Bone002
+    3300004: Bone003
+    3300006: Bone004
+    3300008: Bone005
+    3300010: Bone006
+    3300012: Bone007
+    3300014: Bone010
+    3300016: Bone011
+    3300018: Bone012
+    3300020: Bone013
+    3300022: Box001
+    3300024: Box016
+    3300026: Box017
+    3300028: Box018
+    3300030: cables
+    3300032: Capsule001
+    3300034: ChamferBox001
+    3300036: Circle004
+    3300038: Cylinder018
+    3300040: Line003
+    3300042: Object001
+    3300044: robot
+    4300000: Bone001
+    4300002: Bone002
+    4300004: Bone003
+    4300006: Bone004
+    4300008: Bone005
+    4300010: Bone006
+    4300012: Bone007
+    4300014: Bone010
+    4300016: Bone011
+    4300018: Bone012
+    4300020: Bone013
+    4300022: Box001
+    4300024: Box016
+    4300026: Box017
+    4300028: Box018
+    4300030: cables
+    4300032: Capsule001
+    4300034: ChamferBox001
+    4300036: Circle004
+    4300038: Cylinder018
+    4300040: Line003
+    4300042: Object001
+    4300044: robot
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone001Mat
+    second: {fileID: 2100000, guid: 2919e07711b49014ca5c1a1a40b21b2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone002Mat
+    second: {fileID: 2100000, guid: f330632c04099fa4a8de70f4db03d341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone003Mat
+    second: {fileID: 2100000, guid: bb020cad83d34b24385bdd9e7e779d89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone004Mat
+    second: {fileID: 2100000, guid: 40b54c32efa9ad7488ef0c6e1e675957, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone005Mat
+    second: {fileID: 2100000, guid: 791bd413ad8cf664ca572c6587e5a46e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone006Mat
+    second: {fileID: 2100000, guid: 9b54d16317ea65849b32818e5da74c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone007Mat
+    second: {fileID: 2100000, guid: 23412b51c111016419eaab14026598bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone010Mat
+    second: {fileID: 2100000, guid: 3c2798e199f12384fafdf388ea83540d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone011Mat
+    second: {fileID: 2100000, guid: b878cfd38420fb8489cd325149cb9dcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone012Mat
+    second: {fileID: 2100000, guid: d66003b72c3e8e2489657ba294d06e74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone013Mat
+    second: {fileID: 2100000, guid: a24659a4c6316cc48acc468788530411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box001Mat
+    second: {fileID: 2100000, guid: ff18e18ae21eb1a43ae8dfa955fa6119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box016Mat
+    second: {fileID: 2100000, guid: 820d75a9e59fd8148a89c4dcfec487b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box017Mat
+    second: {fileID: 2100000, guid: 402c8359108d09b419194280900bfba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box018Mat
+    second: {fileID: 2100000, guid: edc3ab015ecfbf045ac63ea63a43db63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capsule001Mat
+    second: {fileID: 2100000, guid: a390f28a08251c3459fc212abc98b98f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChamferBox001Mat
+    second: {fileID: 2100000, guid: d7e7427f9d1dda04c9c8540b35460325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle004Mat
+    second: {fileID: 2100000, guid: 95d667359446651418e2140f46d88041, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder018Mat
+    second: {fileID: 2100000, guid: 8ad55e6c27e57aa4ab1cd1d96e226a13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line003Mat
+    second: {fileID: 2100000, guid: 8570a6bcfbd64a6458091dcb91d92f61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object001Mat
+    second: {fileID: 2100000, guid: 7a915ea094dc6e645a0fc75a522791b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cablesMat
+    second: {fileID: 2100000, guid: e2bb42c253d11884da2e251768b66c1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: robotMat
+    second: {fileID: 2100000, guid: a88b40a4929cf1046a859eeb33a68f8d, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

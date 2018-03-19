@@ -1,0 +1,57 @@
+syntax: glob
+*~$*
+*/Library/*
+*/Temp/*
+
+#--------------------------------------------#
+# =============== #
+# Repository	  #
+# =============== #
+*.orig
+*.orig.meta
+
+#--------------------------------------------#
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+*.unitypackage
+[Tt]humbs.db.meta
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+#--------------------------------------------#
+*.csproj
+*.sln
+Assets\Editor\CustomEditorBase.cs
+Assets\Editor\CustomEditorBase.cs.meta
+UnityPackageManager\manifest.json
+[Pp]ersonal[Ss]cenes/
+PersonalScenes.meta

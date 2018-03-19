@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 9359126c2da991148a0e7deecd0effed
+timeCreated: 1511428419
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: b_cam_big
+    100002: b_groin
+    100004: b_head
+    100006: b_L_arm_FK
+    100008: b_L_arm_FK_1
+    100010: b_L_arm_FK_2
+    100012: b_L_arm_IK
+    100014: b_L_arm_IK_1
+    100016: b_L_arm_IK_2
+    100018: b_L_arm_Rig
+    100020: b_L_arm_Rig_1
+    100022: b_L_arm_Rig_2
+    100024: b_L_ear
+    100026: b_L_foot
+    100028: b_L_leg
+    100030: b_L_leg_0
+    100032: b_L_leg_1
+    100034: b_L_leg_2
+    100036: b_L_leg_3
+    100038: b_L_toe_0
+    100040: b_L_toe_1
+    100042: b_L_toe_2
+    100044: b_L_toe_3
+    100046: b_L_toe_4
+    100048: b_L_top_flap
+    100050: b_leg_0
+    100052: b_leg_1
+    100054: b_R_arm_f_0_0
+    100056: b_R_arm_f_0_1
+    100058: b_R_arm_f_0_2
+    100060: b_R_arm_f_1_0
+    100062: b_R_arm_f_1_1
+    100064: b_R_arm_f_1_2
+    100066: b_R_arm_f_2_0
+    100068: b_R_arm_f_2_1
+    100070: b_R_arm_f_2_2
+    100072: b_R_arm_f_3_0
+    100074: b_R_arm_f_3_1
+    100076: b_R_arm_f_3_2
+    100078: b_R_arm_f_4_0
+    100080: b_R_arm_f_4_1
+    100082: b_R_arm_f_4_2
+    100084: b_R_arm_FK
+    100086: b_R_arm_FK_1
+    100088: b_R_arm_FK_2
+    100090: b_R_arm_IK
+    100092: b_R_arm_IK_1
+    100094: b_R_arm_IK_2
+    100096: b_R_arm_rig
+    100098: b_R_arm_rig_1
+    100100: b_R_arm_rig_2
+    100102: b_R_cam
+    100104: b_R_ear
+    100106: b_R_toe_0
+    100108: b_R_toe_1
+    100110: b_R_toe_2
+    100112: b_R_toe_3
+    100114: b_R_toe_big
+    100116: b_R_top_flap
+    100118: b_right_foot
+    100120: b_right_leg_0
+    100122: b_right_leg_1
+    100124: b_right_leg_2
+    100126: b_right_leg_3
+    100128: b_root
+    100130: b_spline
+    100132: b_T_cam
+    100134: Bone047
+    100136: Bone051
+    100138: Bone053
+    100140: c_foot_rotation
+    100142: c_L_arm_IK
+    100144: c_L_ear
+    100146: c_L_elbow_FK
+    100148: c_L_foot
+    100150: c_L_leg
+    100152: c_L_Shoulder_FK
+    100154: c_L_toe
+    100156: c_L_toe001
+    100158: c_L_toe002
+    100160: c_L_toe003
+    100162: c_L_toe004
+    100164: c_L_top_flap
+    100166: c_neck
+    100168: c_R_arm_f_0_0
+    100170: c_R_arm_f_0_1
+    100172: c_R_arm_f_0_2
+    100174: c_R_arm_f_1_0
+    100176: c_R_arm_f_1_1
+    100178: c_R_arm_f_1_2
+    100180: c_R_arm_f_2_0
+    100182: c_R_arm_f_2_1
+    100184: c_R_arm_f_2_2
+    100186: c_R_arm_f_3_0
+    100188: c_R_arm_f_3_1
+    100190: c_R_arm_f_3_2
+    100192: c_R_arm_f_4_0
+    100194: c_R_arm_f_4_1
+    100196: c_R_arm_f_4_2
+    100198: c_R_arm_IK
+    100200: c_R_ear
+    100202: c_R_elbow_FK
+    100204: c_R_hand_FK
+    100206: c_R_shoulder_FK
+    100208: c_R_toe
+    100210: c_R_toe4
+    100212: c_R_toe_1
+    100214: c_R_toe_2
+    100216: c_R_toe_3
+    100218: c_R_top_flap
+    100220: c_right_ik_leg
+    100222: c_spline
+    100224: c_torso
+    100226: d_R_leg
+    100228: d_right_leg
+    100230: d_root
+    100232: d_spline
+    100234: IK Chain002
+    100236: L_arm_IKChain
+    100238: L_C
+    100240: L_leg_IKChain
+    100242: L_R_C
+    100244: L_T_C
+    100246: mesh_deaf_robot
+    100248: R_arm_IKChain
+    100250: //RootNode
+    400000: b_cam_big
+    400002: b_groin
+    400004: b_head
+    400006: b_L_arm_FK
+    400008: b_L_arm_FK_1
+    400010: b_L_arm_FK_2
+    400012: b_L_arm_IK
+    400014: b_L_arm_IK_1
+    400016: b_L_arm_IK_2
+    400018: b_L_arm_Rig
+    400020: b_L_arm_Rig_1
+    400022: b_L_arm_Rig_2
+    400024: b_L_ear
+    400026: b_L_foot
+    400028: b_L_leg
+    400030: b_L_leg_0
+    400032: b_L_leg_1
+    400034: b_L_leg_2
+    400036: b_L_leg_3
+    400038: b_L_toe_0
+    400040: b_L_toe_1
+    400042: b_L_toe_2
+    400044: b_L_toe_3
+    400046: b_L_toe_4
+    400048: b_L_top_flap
+    400050: b_leg_0
+    400052: b_leg_1
+    400054: b_R_arm_f_0_0
+    400056: b_R_arm_f_0_1
+    400058: b_R_arm_f_0_2
+    400060: b_R_arm_f_1_0
+    400062: b_R_arm_f_1_1
+    400064: b_R_arm_f_1_2
+    400066: b_R_arm_f_2_0
+    400068: b_R_arm_f_2_1
+    400070: b_R_arm_f_2_2
+    400072: b_R_arm_f_3_0
+    400074: b_R_arm_f_3_1
+    400076: b_R_arm_f_3_2
+    400078: b_R_arm_f_4_0
+    400080: b_R_arm_f_4_1
+    400082: b_R_arm_f_4_2
+    400084: b_R_arm_FK
+    400086: b_R_arm_FK_1
+    400088: b_R_arm_FK_2
+    400090: b_R_arm_IK
+    400092: b_R_arm_IK_1
+    400094: b_R_arm_IK_2
+    400096: b_R_arm_rig
+    400098: b_R_arm_rig_1
+    400100: b_R_arm_rig_2
+    400102: b_R_cam
+    400104: b_R_ear
+    400106: b_R_toe_0
+    400108: b_R_toe_1
+    400110: b_R_toe_2
+    400112: b_R_toe_3
+    400114: b_R_toe_big
+    400116: b_R_top_flap
+    400118: b_right_foot
+    400120: b_right_leg_0
+    400122: b_right_leg_1
+    400124: b_right_leg_2
+    400126: b_right_leg_3
+    400128: b_root
+    400130: b_spline
+    400132: b_T_cam
+    400134: Bone047
+    400136: Bone051
+    400138: Bone053
+    400140: c_foot_rotation
+    400142: c_L_arm_IK
+    400144: c_L_ear
+    400146: c_L_elbow_FK
+    400148: c_L_foot
+    400150: c_L_leg
+    400152: c_L_Shoulder_FK
+    400154: c_L_toe
+    400156: c_L_toe001
+    400158: c_L_toe002
+    400160: c_L_toe003
+    400162: c_L_toe004
+    400164: c_L_top_flap
+    400166: c_neck
+    400168: c_R_arm_f_0_0
+    400170: c_R_arm_f_0_1
+    400172: c_R_arm_f_0_2
+    400174: c_R_arm_f_1_0
+    400176: c_R_arm_f_1_1
+    400178: c_R_arm_f_1_2
+    400180: c_R_arm_f_2_0
+    400182: c_R_arm_f_2_1
+    400184: c_R_arm_f_2_2
+    400186: c_R_arm_f_3_0
+    400188: c_R_arm_f_3_1
+    400190: c_R_arm_f_3_2
+    400192: c_R_arm_f_4_0
+    400194: c_R_arm_f_4_1
+    400196: c_R_arm_f_4_2
+    400198: c_R_arm_IK
+    400200: c_R_ear
+    400202: c_R_elbow_FK
+    400204: c_R_hand_FK
+    400206: c_R_shoulder_FK
+    400208: c_R_toe
+    400210: c_R_toe4
+    400212: c_R_toe_1
+    400214: c_R_toe_2
+    400216: c_R_toe_3
+    400218: c_R_top_flap
+    400220: c_right_ik_leg
+    400222: c_spline
+    400224: c_torso
+    400226: d_R_leg
+    400228: d_right_leg
+    400230: d_root
+    400232: d_spline
+    400234: IK Chain002
+    400236: L_arm_IKChain
+    400238: L_C
+    400240: L_leg_IKChain
+    400242: L_R_C
+    400244: L_T_C
+    400246: mesh_deaf_robot
+    400248: R_arm_IKChain
+    400250: //RootNode
+    4300000: mesh_deaf_robot
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: mesh_deaf_robot
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 7c916c12e232ef64680b6b090b3d0432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 7c6d1b789a7455d48a2127fefeff4589, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 3c261e54f36298340b8336699447b05b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: c4c6b34d0ec089b4496a9ef5a6503cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: aa9d2525f718f264ebaab75709ad69c9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

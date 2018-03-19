@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: 8b3d301e827827642a1fe90f174de9e5
+timeCreated: 1512746444
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: b_root
+    100002: b_rotatetop 1
+    100004: b_rotatetop 2
+    100006: Box005
+    100008: control panel
+    100010: control panel base
+    100012: conveyor belt
+    100014: //RootNode
+    100016: scherm
+    100018: weapon container
+    100020: cb1_low
+    100022: cb2_low
+    100024: cb3_low
+    100026: cb4_low
+    100028: control panel base low
+    100030: cp1_low
+    100032: cp2_low
+    100034: cp3_low
+    100036: cp4_low
+    100038: cp5_low
+    100040: cp6_low
+    100042: scherm low
+    100044: wc1_low
+    100046: wc2_low
+    100048: wc3_low
+    100050: wc4_low
+    100052: wc5_low
+    100054: weapon container low
+    100056: Object002
+    100058: b_cbpipe1
+    100060: b_cbpipe2
+    100062: b_cbroot
+    100064: b_cbwhee5
+    100066: b_cbwheel1
+    100068: b_cbwheel2
+    100070: b_cbwheel3
+    100072: b_cbwheel4
+    100074: b_cbwheel6
+    100076: b_cbwheel7
+    100078: b_cppanelcenter
+    100080: b_cppanelleft
+    100082: b_cppanelright
+    100084: b_cproot
+    100086: b_screenroot
+    100088: b_screenrot1
+    100090: b_screenrot1left
+    100092: b_screenrot1right
+    100094: b_screenrot2
+    100096: b_screenrot2left
+    100098: b_screenrot2right
+    100100: b_screenrotfront
+    100102: b_wcgate
+    100104: b_wcroot
+    100106: Control Panel Base
+    100108: Screen
+    100110: Weapon Container
+    100112: Control Panel
+    100114: Conveyor belt
+    100116: 'Conveyor Belt '
+    100118: 'Control Panel '
+    400000: b_root
+    400002: b_rotatetop 1
+    400004: b_rotatetop 2
+    400006: Box005
+    400008: control panel
+    400010: control panel base
+    400012: conveyor belt
+    400014: //RootNode
+    400016: scherm
+    400018: weapon container
+    400020: cb1_low
+    400022: cb2_low
+    400024: cb3_low
+    400026: cb4_low
+    400028: control panel base low
+    400030: cp1_low
+    400032: cp2_low
+    400034: cp3_low
+    400036: cp4_low
+    400038: cp5_low
+    400040: cp6_low
+    400042: scherm low
+    400044: wc1_low
+    400046: wc2_low
+    400048: wc3_low
+    400050: wc4_low
+    400052: wc5_low
+    400054: weapon container low
+    400056: Object002
+    400058: b_cbpipe1
+    400060: b_cbpipe2
+    400062: b_cbroot
+    400064: b_cbwhee5
+    400066: b_cbwheel1
+    400068: b_cbwheel2
+    400070: b_cbwheel3
+    400072: b_cbwheel4
+    400074: b_cbwheel6
+    400076: b_cbwheel7
+    400078: b_cppanelcenter
+    400080: b_cppanelleft
+    400082: b_cppanelright
+    400084: b_cproot
+    400086: b_screenroot
+    400088: b_screenrot1
+    400090: b_screenrot1left
+    400092: b_screenrot1right
+    400094: b_screenrot2
+    400096: b_screenrot2left
+    400098: b_screenrot2right
+    400100: b_screenrotfront
+    400102: b_wcgate
+    400104: b_wcroot
+    400106: Control Panel Base
+    400108: Screen
+    400110: Weapon Container
+    400112: Control Panel
+    400114: Conveyor belt
+    400116: 'Conveyor Belt '
+    400118: 'Control Panel '
+    2300000: control panel
+    2300002: control panel base
+    2300004: conveyor belt
+    2300006: scherm
+    2300008: weapon container
+    2300010: cb1_low
+    2300012: cb2_low
+    2300014: cb3_low
+    2300016: cb4_low
+    2300018: control panel base low
+    2300020: cp1_low
+    2300022: cp2_low
+    2300024: cp3_low
+    2300026: cp4_low
+    2300028: cp5_low
+    2300030: cp6_low
+    2300032: scherm low
+    2300034: wc1_low
+    2300036: wc2_low
+    2300038: wc3_low
+    2300040: wc4_low
+    2300042: wc5_low
+    2300044: Object002
+    2300046: Control Panel Base
+    3300000: control panel
+    3300002: control panel base
+    3300004: conveyor belt
+    3300006: scherm
+    3300008: weapon container
+    3300010: cb1_low
+    3300012: cb2_low
+    3300014: cb3_low
+    3300016: cb4_low
+    3300018: control panel base low
+    3300020: cp1_low
+    3300022: cp2_low
+    3300024: cp3_low
+    3300026: cp4_low
+    3300028: cp5_low
+    3300030: cp6_low
+    3300032: scherm low
+    3300034: wc1_low
+    3300036: wc2_low
+    3300038: wc3_low
+    3300040: wc4_low
+    3300042: wc5_low
+    3300044: Object002
+    3300046: Control Panel Base
+    4300000: weapon container
+    4300002: scherm
+    4300004: conveyor belt
+    4300006: control panel base
+    4300008: control panel
+    4300010: cb4_low
+    4300012: control panel base low
+    4300014: cp5_low
+    4300016: cp1_low
+    4300018: cp2_low
+    4300020: cp3_low
+    4300022: cp4_low
+    4300024: cp6_low
+    4300026: wc1_low
+    4300028: wc2_low
+    4300030: wc3_low
+    4300032: wc4_low
+    4300034: wc5_low
+    4300036: cb1_low
+    4300038: cb2_low
+    4300040: cb3_low
+    4300042: scherm low
+    4300044: Object002
+    4300046: Control Panel Base
+    4300048: Weapon Container
+    4300050: Screen
+    4300052: Control Panel
+    4300054: Conveyor belt
+    4300056: 'Conveyor Belt '
+    4300058: 'Control Panel '
+    7400000: OpenScreen
+    7400002: OpenHatch
+    7400004: CloseHatch
+    7400006: ConveyorBelt
+    9500000: //RootNode
+    13700000: Screen
+    13700002: Weapon Container
+    13700004: Control Panel
+    13700006: Conveyor belt
+    13700008: 'Conveyor Belt '
+    13700010: cb4_low
+    13700012: 'Control Panel '
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: f48a1037d7a828e4cb7dbf7e7f5bd793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 73dbdf475f222ad4a92693a3550f489b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 877ba728e90b66748a4e654747985c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: b05627f47e2280047bc2ab089a859bc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 38338883eeab73a4b858e05d8ab172e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: f8067118a8e4eaa4ca9e62273192ac63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Control Panel Base
+    second: {fileID: 2100000, guid: 485bb9332bc0a62408338f74b257fd14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen
+    second: {fileID: 2100000, guid: 2f1d55e8ac9863648b9d903d41e84b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Weapon Container
+    second: {fileID: 2100000, guid: c832a02adf218d74b9ce7bd6273c8e75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 7b58bebbacc2d0d4ea2597b4bf6c6b2f, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: OpenScreen
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: OpenHatch
+      takeName: Take 001
+      firstFrame: 45
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CloseHatch
+      takeName: Take 001
+      firstFrame: 65
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ConveyorBelt
+      takeName: Take 001
+      firstFrame: 85
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

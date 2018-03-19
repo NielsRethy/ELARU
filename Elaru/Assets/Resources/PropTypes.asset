@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3311b7038f883a14da43fc2bd7c3fb69, type: 3}
+  m_Name: PropTypes
+  m_EditorClassIdentifier: 
+  PropTypes:
+  - Type: 0
+    ImpactSFX: 
+    BreakSFX: 
+    Drag: 0
+    DamageThreshold: 0
+    Debris: {fileID: 0}
+  - Type: 1
+    ImpactSFX: ConcreteImpact
+    BreakSFX: ConcreteBreak
+    Drag: 0.2
+    DamageThreshold: 10
+    Debris: {fileID: 0}
+  - Type: 2
+    ImpactSFX: 
+    BreakSFX: 
+    Drag: 10
+    DamageThreshold: 0
+    Debris: {fileID: 0}
+  - Type: 4
+    ImpactSFX: GlassImpact
+    BreakSFX: GlassBreak
+    Drag: 0.4
+    DamageThreshold: 5
+    Debris: {fileID: 0}
+  - Type: 3
+    ImpactSFX: RubberImpact
+    BreakSFX: 
+    Drag: 1
+    DamageThreshold: 0
+    Debris: {fileID: 0}
+  - Type: 5
+    ImpactSFX: MetalImpact
+    BreakSFX: MetalBreak
+    Drag: 0.002
+    DamageThreshold: 0
+    Debris: {fileID: 0}

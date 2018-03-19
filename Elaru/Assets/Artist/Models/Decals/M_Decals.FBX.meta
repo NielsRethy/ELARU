@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 967164c153d6fdd4a8cb8438601cc65f
+timeCreated: 1515855404
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Dec_Decal_A_00
+    100002: Dec_Decal_A_01
+    100004: Dec_Decal_A_02
+    100006: Dec_Decal_A_03
+    100008: Dec_Decal_A_04
+    100010: Dec_Decal_A_05
+    100012: Dec_Decal_A_06
+    100014: Dec_Decal_A_07
+    100016: Dec_Decal_A_08
+    100018: Dec_Decal_A_09
+    100020: Dec_Decal_A_10
+    100022: Dec_Decal_A_11
+    100024: Dec_Decal_A_12
+    100026: Dec_Decal_A_13
+    100028: Dec_Decal_A_14
+    100030: Dec_Decal_A_15
+    100032: Dec_Decal_A_16
+    100034: Dec_Decal_A_17
+    100036: Dec_Decal_A_18
+    100038: Dec_Decal_A_19
+    100040: Dec_Decal_A_20
+    100042: Dec_Decal_A_21
+    100044: Dec_Decal_A_22
+    100046: //RootNode
+    400000: Dec_Decal_A_00
+    400002: Dec_Decal_A_01
+    400004: Dec_Decal_A_02
+    400006: Dec_Decal_A_03
+    400008: Dec_Decal_A_04
+    400010: Dec_Decal_A_05
+    400012: Dec_Decal_A_06
+    400014: Dec_Decal_A_07
+    400016: Dec_Decal_A_08
+    400018: Dec_Decal_A_09
+    400020: Dec_Decal_A_10
+    400022: Dec_Decal_A_11
+    400024: Dec_Decal_A_12
+    400026: Dec_Decal_A_13
+    400028: Dec_Decal_A_14
+    400030: Dec_Decal_A_15
+    400032: Dec_Decal_A_16
+    400034: Dec_Decal_A_17
+    400036: Dec_Decal_A_18
+    400038: Dec_Decal_A_19
+    400040: Dec_Decal_A_20
+    400042: Dec_Decal_A_21
+    400044: Dec_Decal_A_22
+    400046: //RootNode
+    2100000: 01 - Default
+    2300000: Dec_Decal_A_00
+    2300002: Dec_Decal_A_01
+    2300004: Dec_Decal_A_02
+    2300006: Dec_Decal_A_03
+    2300008: Dec_Decal_A_04
+    2300010: Dec_Decal_A_05
+    2300012: Dec_Decal_A_06
+    2300014: Dec_Decal_A_07
+    2300016: Dec_Decal_A_08
+    2300018: Dec_Decal_A_09
+    2300020: Dec_Decal_A_10
+    2300022: Dec_Decal_A_11
+    2300024: Dec_Decal_A_12
+    2300026: Dec_Decal_A_13
+    2300028: Dec_Decal_A_14
+    2300030: Dec_Decal_A_15
+    2300032: Dec_Decal_A_16
+    2300034: Dec_Decal_A_17
+    2300036: Dec_Decal_A_18
+    2300038: Dec_Decal_A_19
+    2300040: Dec_Decal_A_20
+    2300042: Dec_Decal_A_21
+    2300044: Dec_Decal_A_22
+    3300000: Dec_Decal_A_00
+    3300002: Dec_Decal_A_01
+    3300004: Dec_Decal_A_02
+    3300006: Dec_Decal_A_03
+    3300008: Dec_Decal_A_04
+    3300010: Dec_Decal_A_05
+    3300012: Dec_Decal_A_06
+    3300014: Dec_Decal_A_07
+    3300016: Dec_Decal_A_08
+    3300018: Dec_Decal_A_09
+    3300020: Dec_Decal_A_10
+    3300022: Dec_Decal_A_11
+    3300024: Dec_Decal_A_12
+    3300026: Dec_Decal_A_13
+    3300028: Dec_Decal_A_14
+    3300030: Dec_Decal_A_15
+    3300032: Dec_Decal_A_16
+    3300034: Dec_Decal_A_17
+    3300036: Dec_Decal_A_18
+    3300038: Dec_Decal_A_19
+    3300040: Dec_Decal_A_20
+    3300042: Dec_Decal_A_21
+    3300044: Dec_Decal_A_22
+    4300000: Dec_Decal_A_00
+    4300002: Dec_Decal_A_01
+    4300004: Dec_Decal_A_02
+    4300006: Dec_Decal_A_03
+    4300008: Dec_Decal_A_04
+    4300010: Dec_Decal_A_05
+    4300012: Dec_Decal_A_06
+    4300014: Dec_Decal_A_07
+    4300016: Dec_Decal_A_08
+    4300018: Dec_Decal_A_09
+    4300020: Dec_Decal_A_10
+    4300022: Dec_Decal_A_11
+    4300024: Dec_Decal_A_12
+    4300026: Dec_Decal_A_13
+    4300028: Dec_Decal_A_14
+    4300030: Dec_Decal_A_15
+    4300032: Dec_Decal_A_16
+    4300034: Dec_Decal_A_17
+    4300036: Dec_Decal_A_18
+    4300038: Dec_Decal_A_19
+    4300040: Dec_Decal_A_20
+    4300042: Dec_Decal_A_21
+    4300044: Dec_Decal_A_22
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

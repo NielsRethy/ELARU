@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - MainHand
+  - Sword
+  - Floor
+  - Gun
+  - Enemy
+  - Hand
+  - Button
+  - Lever
+  - Blade
+  - Teleport
+  - Destroy
+  - Ladder
+  - DisableCamera
+  - LadderDone
+  - Singletons
+  - Destructible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - Buttons
+  - HandsCol
+  - FloorCollision
+  - CompanionHelp
+  - Weapons
+  - SwordBlade
+  - Interactable
+  - Destructible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

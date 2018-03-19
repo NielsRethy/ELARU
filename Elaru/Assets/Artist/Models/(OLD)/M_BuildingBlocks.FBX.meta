@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: c1b8d4f10c6f87d4bad3ad822a5b14c0
+timeCreated: 1511177359
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: M_Block_Building_A
+    100002: M_Block_Building_B
+    100004: M_Block_Building_C
+    100006: M_Block_Building_D
+    100008: M_Block_Building_E
+    100010: M_Block_Building_F
+    100012: M_Block_Building_G
+    100014: M_Block_Building_H
+    100016: M_Block_Building_I
+    100018: M_Block_Building_J
+    100020: M_Block_Building_K
+    100022: M_Block_Building_L
+    100024: M_Block_Building_M
+    100026: //RootNode
+    100028: M_Block_Building_N
+    100030: M_Block_Balcony_A
+    100032: M_Block_Balcony_B
+    100034: M_Block_Balcony_C
+    100036: M_Block_Balcony_D
+    100038: M_Block_Balcony_E
+    100040: M_Block_Balcony_F
+    100042: M_Block_Building_J_B
+    100044: M_Block_Corner_A
+    100046: M_Block_MiddleFloor_A
+    100048: M_Block_MiddleFloor_B
+    100050: M_Block_MiddleFloor_C
+    100052: M_Block_MiddleFloor_D
+    100054: M_Block_MiddleFloor_E
+    100056: M_Block_Pillar_A
+    100058: M_Block_Pillar_B
+    100060: M_Block_Pillar_C
+    100062: M_Block_Pillar_D
+    400000: M_Block_Building_A
+    400002: M_Block_Building_B
+    400004: M_Block_Building_C
+    400006: M_Block_Building_D
+    400008: M_Block_Building_E
+    400010: M_Block_Building_F
+    400012: M_Block_Building_G
+    400014: M_Block_Building_H
+    400016: M_Block_Building_I
+    400018: M_Block_Building_J
+    400020: M_Block_Building_K
+    400022: M_Block_Building_L
+    400024: M_Block_Building_M
+    400026: //RootNode
+    400028: M_Block_Building_N
+    400030: M_Block_Balcony_A
+    400032: M_Block_Balcony_B
+    400034: M_Block_Balcony_C
+    400036: M_Block_Balcony_D
+    400038: M_Block_Balcony_E
+    400040: M_Block_Balcony_F
+    400042: M_Block_Building_J_B
+    400044: M_Block_Corner_A
+    400046: M_Block_MiddleFloor_A
+    400048: M_Block_MiddleFloor_B
+    400050: M_Block_MiddleFloor_C
+    400052: M_Block_MiddleFloor_D
+    400054: M_Block_MiddleFloor_E
+    400056: M_Block_Pillar_A
+    400058: M_Block_Pillar_B
+    400060: M_Block_Pillar_C
+    400062: M_Block_Pillar_D
+    2300000: M_Block_Building_A
+    2300002: M_Block_Building_B
+    2300004: M_Block_Building_C
+    2300006: M_Block_Building_D
+    2300008: M_Block_Building_E
+    2300010: M_Block_Building_F
+    2300012: M_Block_Building_G
+    2300014: M_Block_Building_H
+    2300016: M_Block_Building_I
+    2300018: M_Block_Building_J
+    2300020: M_Block_Building_K
+    2300022: M_Block_Building_L
+    2300024: M_Block_Building_M
+    2300026: M_Block_Building_N
+    2300028: M_Block_Balcony_A
+    2300030: M_Block_Balcony_B
+    2300032: M_Block_Balcony_C
+    2300034: M_Block_Balcony_D
+    2300036: M_Block_Balcony_E
+    2300038: M_Block_Balcony_F
+    2300040: M_Block_Building_J_B
+    2300042: M_Block_Corner_A
+    2300044: M_Block_MiddleFloor_A
+    2300046: M_Block_MiddleFloor_B
+    2300048: M_Block_MiddleFloor_C
+    2300050: M_Block_MiddleFloor_D
+    2300052: M_Block_MiddleFloor_E
+    2300054: M_Block_Pillar_A
+    2300056: M_Block_Pillar_B
+    2300058: M_Block_Pillar_C
+    2300060: M_Block_Pillar_D
+    3300000: M_Block_Building_A
+    3300002: M_Block_Building_B
+    3300004: M_Block_Building_C
+    3300006: M_Block_Building_D
+    3300008: M_Block_Building_E
+    3300010: M_Block_Building_F
+    3300012: M_Block_Building_G
+    3300014: M_Block_Building_H
+    3300016: M_Block_Building_I
+    3300018: M_Block_Building_J
+    3300020: M_Block_Building_K
+    3300022: M_Block_Building_L
+    3300024: M_Block_Building_M
+    3300026: M_Block_Building_N
+    3300028: M_Block_Balcony_A
+    3300030: M_Block_Balcony_B
+    3300032: M_Block_Balcony_C
+    3300034: M_Block_Balcony_D
+    3300036: M_Block_Balcony_E
+    3300038: M_Block_Balcony_F
+    3300040: M_Block_Building_J_B
+    3300042: M_Block_Corner_A
+    3300044: M_Block_MiddleFloor_A
+    3300046: M_Block_MiddleFloor_B
+    3300048: M_Block_MiddleFloor_C
+    3300050: M_Block_MiddleFloor_D
+    3300052: M_Block_MiddleFloor_E
+    3300054: M_Block_Pillar_A
+    3300056: M_Block_Pillar_B
+    3300058: M_Block_Pillar_C
+    3300060: M_Block_Pillar_D
+    4300000: M_Block_Building_A
+    4300002: M_Block_Building_D
+    4300004: M_Block_Building_E
+    4300006: M_Block_Building_F
+    4300008: M_Block_Building_G
+    4300010: M_Block_Building_H
+    4300012: M_Block_Building_I
+    4300014: M_Block_Building_C
+    4300016: M_Block_Building_B
+    4300018: M_Block_Building_J
+    4300020: M_Block_Building_K
+    4300022: M_Block_Building_L
+    4300024: M_Block_Building_M
+    4300026: M_Block_Building_N
+    4300028: M_Block_Corner_A
+    4300030: M_Block_Pillar_A
+    4300032: M_Block_Pillar_B
+    4300034: M_Block_Balcony_A
+    4300036: M_Block_Balcony_B
+    4300038: M_Block_Balcony_C
+    4300040: M_Block_Balcony_D
+    4300042: M_Block_MiddleFloor_A
+    4300044: M_Block_MiddleFloor_B
+    4300046: M_Block_MiddleFloor_C
+    4300048: M_Block_MiddleFloor_D
+    4300050: M_Block_MiddleFloor_E
+    4300052: M_Block_Building_J_B
+    4300054: M_Block_Pillar_C
+    4300056: M_Block_Pillar_D
+    4300058: M_Block_Balcony_E
+    4300060: M_Block_Balcony_F
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_BuilingProps
+    second: {fileID: 2100000, guid: 44ff983500cf7054e8fea53e22c837cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 4ffad12c2678acc408692c96c9bc7e7f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

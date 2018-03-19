@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73a9c5c58b639214fb2f62a87d7c849d
+timeCreated: 1514644019
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _animator: {instanceID: 0}
+  - _clipOpen: {fileID: 7400004, guid: addd272921625e3489452bac70a295f6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,254 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c23abfa47ba8a4c458084abc15db1e24, type: 3}
+  m_Name: SoundEffectsArrayData
+  m_EditorClassIdentifier: 
+  SoundEffects:
+  - Name: PickupPressed
+    AudioClips:
+    - {fileID: 8300000, guid: fc3be031ee9c9164cb597d3f921a382e, type: 3}
+    - {fileID: 8300000, guid: 20e4b891263021845a3e1d7c35f7ffa2, type: 3}
+    - {fileID: 8300000, guid: ec8a7804cdb55bc4ebf25ffaa209e7fe, type: 3}
+  - Name: Teleport
+    AudioClips:
+    - {fileID: 8300000, guid: 8458af27b70d9e240abce6084b64858d, type: 3}
+    - {fileID: 8300000, guid: a98d95f48bfb30941a5aa26406d8c3d5, type: 3}
+    - {fileID: 8300000, guid: c3bdf76dba9b90b439c0816ca923ec1b, type: 3}
+  - Name: WeaponCooling
+    AudioClips:
+    - {fileID: 8300000, guid: 120ada4913d2aeb4186ab8ec3da64c83, type: 3}
+    - {fileID: 8300000, guid: 30bd152337e19a846ad697f186ee23ae, type: 3}
+    - {fileID: 8300000, guid: 824a09bb60c592f44832b6ac04e35813, type: 3}
+  - Name: GunFireWeak
+    AudioClips:
+    - {fileID: 8300000, guid: 423283f3104dbbc44bd33c01d6071bd5, type: 3}
+  - Name: GunFireMedium
+    AudioClips:
+    - {fileID: 8300000, guid: 03ca3139fb97b364e891c667da622d57, type: 3}
+  - Name: GunFireStrong
+    AudioClips:
+    - {fileID: 8300000, guid: 4fbd37e3e4f3f2743b84c00865494af9, type: 3}
+  - Name: GunFireProjectile
+    AudioClips:
+    - {fileID: 8300000, guid: 009aa34d26c393e4da3c524ec5285984, type: 3}
+  - Name: GunSoundDetonate
+    AudioClips:
+    - {fileID: 8300000, guid: 32eafd2f1857d9646b7b12e8558f1d9e, type: 3}
+  - Name: GunLightDetonate
+    AudioClips:
+    - {fileID: 8300000, guid: 22ede1e31a6c753408e43daed5152f4b, type: 3}
+  - Name: SwordActivate
+    AudioClips:
+    - {fileID: 8300000, guid: e629da955577663419e265c1c7849a7a, type: 3}
+  - Name: SwordDeactivate
+    AudioClips:
+    - {fileID: 8300000, guid: cecfd9d9056a27f4493c1ee3cbb1ae2f, type: 3}
+    - {fileID: 8300000, guid: 25393f459ba5f7e47b2b2c0f612e2897, type: 3}
+    - {fileID: 8300000, guid: cb2302b308b1d87499fc74c04d858467, type: 3}
+  - Name: SwordCooled
+    AudioClips:
+    - {fileID: 8300000, guid: 7789d01a35127e84ba1348e5442a10ca, type: 3}
+  - Name: SwordOverheat
+    AudioClips:
+    - {fileID: 8300000, guid: 7eb2585d18e5ed84eb3c60f101abc030, type: 3}
+    - {fileID: 8300000, guid: 4b54f6358bdf79a4a9a3d898578e60ea, type: 3}
+    - {fileID: 8300000, guid: 195d8b246a037804aa74ed01d6e2a1bd, type: 3}
+  - Name: SwordIdle
+    AudioClips:
+    - {fileID: 8300000, guid: a15f28b297912eb4891b00173e43b87a, type: 3}
+  - Name: SwordSwing
+    AudioClips:
+    - {fileID: 8300000, guid: c5701dcb031e6f04b9432b89c74f6445, type: 3}
+    - {fileID: 8300000, guid: cd7b931fafed8ff47bffa5076407e334, type: 3}
+    - {fileID: 8300000, guid: 34ec694c12a308346b510c3e325bcd1c, type: 3}
+  - Name: SpotLightToggle
+    AudioClips:
+    - {fileID: 8300000, guid: b15799bb25a87b44f8ff8c9af8c3793a, type: 3}
+  - Name: CoastClear
+    AudioClips:
+    - {fileID: 8300000, guid: e3cd4c59198717349a450cb18566a78b, type: 3}
+    - {fileID: 8300000, guid: 0159d6020a773e24aacfd49e61844090, type: 3}
+    - {fileID: 8300000, guid: a19e6f7a17fa27943a81072a728830e1, type: 3}
+    - {fileID: 8300000, guid: 7d5a4ffc2703c534caa0fbcd8c5350d2, type: 3}
+    - {fileID: 8300000, guid: 0e20eb40df333d84591d2f26ccc67295, type: 3}
+    - {fileID: 8300000, guid: ce9aca0a51604ac4fbbe1995d1530b6d, type: 3}
+    - {fileID: 8300000, guid: 954dfc924a9fa5a45bebffa1e1ff9717, type: 3}
+  - Name: DeafRobotFire
+    AudioClips:
+    - {fileID: 8300000, guid: 4fbd37e3e4f3f2743b84c00865494af9, type: 3}
+  - Name: DeafRobotVoiceSurrender
+    AudioClips:
+    - {fileID: 8300000, guid: 039b920c4a4eea7419812083f688eaa6, type: 3}
+    - {fileID: 8300000, guid: 3298e76a638df3c42a78395221008c24, type: 3}
+    - {fileID: 8300000, guid: 022faf61bd8e35a4fa3644928b684341, type: 3}
+    - {fileID: 8300000, guid: f6bda0e32898dfc4e95ffcc3b93515a8, type: 3}
+    - {fileID: 8300000, guid: c17580228cf0c1d408b946302232542b, type: 3}
+  - Name: DeafRobotVoiceDetected
+    AudioClips:
+    - {fileID: 8300000, guid: c18a49782732a0444867d483bd78ac65, type: 3}
+  - Name: DeafRobotVoiceCoastClear
+    AudioClips:
+    - {fileID: 8300000, guid: bdb7f05bcccbe4241b00825a8582a798, type: 3}
+    - {fileID: 8300000, guid: d6b44db351a26564f81880e5830b0362, type: 3}
+    - {fileID: 8300000, guid: a0a0aac80d06d53418ae63530925913a, type: 3}
+  - Name: DeafRobotVoiceWrong
+    AudioClips:
+    - {fileID: 8300000, guid: 153ffa1c4794ade48ba2d52e1fdfd36f, type: 3}
+  - Name: Explosion
+    AudioClips:
+    - {fileID: 8300000, guid: 965ae30e33e5c6348a118b4ab65390f6, type: 3}
+    - {fileID: 8300000, guid: 2cf3ebb5a5ccd1f4690eb77a1fe10a25, type: 3}
+    - {fileID: 8300000, guid: c4764bb0662987b418b44a0e905a3c43, type: 3}
+  - Name: Manhole
+    AudioClips:
+    - {fileID: 8300000, guid: 2a39be0504ec57046a0f6fcf1bb79b61, type: 3}
+    - {fileID: 8300000, guid: 7376be521209c844dbe54c01f561e177, type: 3}
+  - Name: Locked
+    AudioClips:
+    - {fileID: 8300000, guid: e7f16567f193f3f418788516ae0a29dd, type: 3}
+    - {fileID: 8300000, guid: 658fc303f1630364ca0087d8d1c0ea1b, type: 3}
+  - Name: MetalBreak
+    AudioClips:
+    - {fileID: 8300000, guid: 6652eb6ecbeee024183738d1ce0c06bb, type: 3}
+    - {fileID: 8300000, guid: 54630c28daee8de47803a08dfa8f58ac, type: 3}
+    - {fileID: 8300000, guid: 2daf10cd689bc944288210219001cf8f, type: 3}
+  - Name: MetalImpact
+    AudioClips:
+    - {fileID: 8300000, guid: 23fe28e648dca3f48b4e08bf2f9574fe, type: 3}
+    - {fileID: 8300000, guid: eed9b3194a35204428d93a1c07afaebb, type: 3}
+  - Name: GlassBreak
+    AudioClips:
+    - {fileID: 8300000, guid: c9a2ea1bd2013e948838408b92448130, type: 3}
+    - {fileID: 8300000, guid: 6385b92cb265d4645b3a6ee11201f216, type: 3}
+    - {fileID: 8300000, guid: 06a3e4340c36d3745be4168e44038871, type: 3}
+  - Name: GlassImpact
+    AudioClips:
+    - {fileID: 8300000, guid: 504ff6d208d320a43bac431467ce3f5d, type: 3}
+    - {fileID: 8300000, guid: 98e4aa828ac695b4eb866ccd1317ad2c, type: 3}
+    - {fileID: 8300000, guid: 9bb00c7dc46ade4469dff00177a40239, type: 3}
+  - Name: ConcreteImpact
+    AudioClips:
+    - {fileID: 8300000, guid: 0922d21a1c1a416499e0f70705aef73a, type: 3}
+    - {fileID: 8300000, guid: 030b2d44a424c9c47b12c20fc59d4781, type: 3}
+    - {fileID: 8300000, guid: 1dcfa7a297af524419bb339e49ca7f61, type: 3}
+  - Name: ConcreteBreak
+    AudioClips:
+    - {fileID: 8300000, guid: 0be7ee8ca866c884b828844bb3d212e8, type: 3}
+    - {fileID: 8300000, guid: 48651077f28f6d14fa5771b3f2713f76, type: 3}
+    - {fileID: 8300000, guid: ee48eca57da4e354cb32d96a9af2b89f, type: 3}
+  - Name: RubberImpact
+    AudioClips:
+    - {fileID: 8300000, guid: bf68a30d04cdd2c488020b5a6fec0edc, type: 3}
+    - {fileID: 8300000, guid: c500cdeb20201444a802fb88525425fb, type: 3}
+    - {fileID: 8300000, guid: f4b753bcb52149a43afacddae6bcf4b9, type: 3}
+  - Name: Garbage
+    AudioClips:
+    - {fileID: 8300000, guid: 97fb5d820342dc04eacfb9ed5814a6fb, type: 3}
+    - {fileID: 8300000, guid: a4fdf28c7ab55d54f9fb80a9ba67724b, type: 3}
+    - {fileID: 8300000, guid: fa740f2902871b24296516a4205932db, type: 3}
+  - Name: Paper
+    AudioClips:
+    - {fileID: 8300000, guid: 31663395ab8569148b6aa7abf9046046, type: 3}
+    - {fileID: 8300000, guid: 11dd0a3bfaf157345af16de58a6412f6, type: 3}
+    - {fileID: 8300000, guid: a50f4f0135f8a0e47b40c15d9eb9fe1f, type: 3}
+  - Name: PickupHover
+    AudioClips:
+    - {fileID: 8300000, guid: fc3be031ee9c9164cb597d3f921a382e, type: 3}
+  - Name: PickupRelease
+    AudioClips:
+    - {fileID: 8300000, guid: fc3be031ee9c9164cb597d3f921a382e, type: 3}
+  - Name: GameOver
+    AudioClips:
+    - {fileID: 8300000, guid: a107001c15209604b8f525c1c474a0d4, type: 3}
+  - Name: BaseDoorOpen
+    AudioClips:
+    - {fileID: 8300000, guid: 3f9b63b76a365c84f83c51353adb14c7, type: 3}
+  - Name: BaseDoorClose
+    AudioClips:
+    - {fileID: 8300000, guid: 706ec8f447d5bb544a5cd387ebf9ea55, type: 3}
+  - Name: BoxClose
+    AudioClips:
+    - {fileID: 8300000, guid: 77f105eecebaa80479e83da73cf2485f, type: 3}
+    - {fileID: 8300000, guid: 93236e9f209ea114981b2cf763254de7, type: 3}
+    - {fileID: 8300000, guid: 298b162e1b34fb74b9cbbd57b14bbc93, type: 3}
+  - Name: BoxOpen
+    AudioClips:
+    - {fileID: 8300000, guid: 8c16c416ee112fe40be55565efa095ae, type: 3}
+    - {fileID: 8300000, guid: 1f31e0096cf0a6d4bbc89b2f54339706, type: 3}
+    - {fileID: 8300000, guid: 0c565fd58ae09de48aa7bb9c28f1987f, type: 3}
+    - {fileID: 8300000, guid: e21efedf27eedcf4eb67f14c8f0c4cbb, type: 3}
+  - Name: BoxLocked
+    AudioClips:
+    - {fileID: 8300000, guid: 360e4b14d94211248bff5eb99342a642, type: 3}
+  - Name: BoxOpening
+    AudioClips:
+    - {fileID: 8300000, guid: 6b5d5d6fc5973864fbb5e98d63515269, type: 3}
+  - Name: BoxRelease
+    AudioClips:
+    - {fileID: 8300000, guid: 4da64115c9d544e408ba3c7d714ccf1f, type: 3}
+  - Name: CompanionRepair
+    AudioClips:
+    - {fileID: 8300000, guid: 22cb26cf4856e874090aa77995107e49, type: 3}
+  - Name: CompanionWakeUp
+    AudioClips:
+    - {fileID: 8300000, guid: 57f982baca72d2d48a6deeae7ad5e18a, type: 3}
+  - Name: Door
+    AudioClips:
+    - {fileID: 8300000, guid: 145148c667b67e149b0fa3d3f9a9be76, type: 3}
+  - Name: GameOver
+    AudioClips:
+    - {fileID: 8300000, guid: a107001c15209604b8f525c1c474a0d4, type: 3}
+  - Name: Victory
+    AudioClips:
+    - {fileID: 8300000, guid: 92b37027a20adaa44a1ad16c79e8f104, type: 3}
+  - Name: CompEmoHappy
+    AudioClips:
+    - {fileID: 8300000, guid: 799feb8f04fe7d5428d8f7b95578cc36, type: 3}
+    - {fileID: 8300000, guid: 56fba68da7d6f4543911f042a6974624, type: 3}
+    - {fileID: 8300000, guid: 1a0aa5228fb8f6e4f92e7a6e185274af, type: 3}
+  - Name: CompEmoSad
+    AudioClips:
+    - {fileID: 8300000, guid: e705338599629fa4e8dae03b4825bba8, type: 3}
+    - {fileID: 8300000, guid: 70bd7972b34da7f44a4bfac0174d71eb, type: 3}
+    - {fileID: 8300000, guid: b2c2281d2e84b5d449719b85e1ca1c8e, type: 3}
+  - Name: CompEmoAngry
+    AudioClips:
+    - {fileID: 8300000, guid: edf04dc253cd7694b9ec50c94c2a4b96, type: 3}
+    - {fileID: 8300000, guid: 402d0bb061227f54dbbccd801488f33d, type: 3}
+    - {fileID: 8300000, guid: 7353ebe0d601caa4a9b453b49c22d380, type: 3}
+  - Name: CompEmoElaru
+    AudioClips:
+    - {fileID: 8300000, guid: c79a000e30e0f4e4388bf905253d06ce, type: 3}
+  - Name: CompEmoError
+    AudioClips:
+    - {fileID: 8300000, guid: 83918ae8c473c9647acbd5607e7c82e2, type: 3}
+  - Name: CompActivate
+    AudioClips:
+    - {fileID: 8300000, guid: 54b7fdab9f398294da52fc5efe77e540, type: 3}
+  - Name: CompScan
+    AudioClips:
+    - {fileID: 8300000, guid: 1200a4eac2fb15c45b6261fcf4cd1e46, type: 3}
+  - Name: TriggerPress
+    AudioClips:
+    - {fileID: 8300000, guid: b1609077dd0e47745964b33fd24fcd11, type: 3}
+    - {fileID: 8300000, guid: 6c490a698b705ad4283c0fb48cb5a68c, type: 3}
+    - {fileID: 8300000, guid: 874f9f553bc1ab1499ec1f222ec16e67, type: 3}
+    - {fileID: 8300000, guid: e07b016578dba634b90009f896b34f4b, type: 3}
+  - Name: TriggerRelease
+    AudioClips:
+    - {fileID: 8300000, guid: 467de6b15761ac64eab7803730f9f16a, type: 3}
+    - {fileID: 8300000, guid: 47a7431e05d42e24f878c1cd627ce8e5, type: 3}
+    - {fileID: 8300000, guid: e73fcaabc76d6f14492cd860fee0c5b6, type: 3}
+  - Name: GunEmpty
+    AudioClips:
+    - {fileID: 8300000, guid: aa59bb4af778ae74f86e888ad41498ba, type: 3}
+    - {fileID: 8300000, guid: cd7b931fafed8ff47bffa5076407e334, type: 3}
+    - {fileID: 8300000, guid: 34ec694c12a308346b510c3e325bcd1c, type: 3}
